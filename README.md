@@ -12,11 +12,10 @@
 - 📫 How to reach me **enesatik456@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<style>
-    .yan-yana {display: inline-block; /* Veya sadece 'inline' */margin-right: 10px;    /* Aralarına boşluk eklemek için */}
-</style>
-<p align="left" class="yan-yana">
+<div width="300" height="300">
+<p align="left">
 <a href="https://twitter.com/enesatik456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="enesatik" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/muhammet-enes-atik-557445208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammet enes atik" height="30" width="40" /></a>
 <a href="https://instagram.com/_enesatik_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_enesatik_" height="30" width="40" /></a>
 </p>
+</div>
